@@ -36,7 +36,7 @@ NeosRulez:
     Mailgun:
       apiKey: 'your-mailgun-api-key'
       domain: 'your-mailgun-domain'
-      server: 'https://api.eu.mailgun.net' # for EU servers
+#      server: 'https://api.eu.mailgun.net' # for EU servers
 ```
 
 ## Author
